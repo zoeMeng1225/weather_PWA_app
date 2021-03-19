@@ -1,0 +1,27 @@
+h1,h2,h3,h4,h5,h6,p{
+  padding:0;
+  margin:0;
+  color:#fff;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+body{
+  height:100vh;
+  overflow:auto;
+}
+
+ul,li, a{
+  text-decoration: none;
+  list-style: none;
+  /* color:#fff; */
+  font-family: 'Raleway', sans-serif;
+}
+
+ul{
+  padding-inline-start: 0;
+}
+
+li{
+  margin-top:.5em;
+}
